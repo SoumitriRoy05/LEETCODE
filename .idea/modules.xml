@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/NUMBERS/NUMBERS.iml" filepath="$PROJECT_DIR$/NUMBERS/NUMBERS.iml" />
       <module fileurl="file://$PROJECT_DIR$/QUEUE/QUEUE.iml" filepath="$PROJECT_DIR$/QUEUE/QUEUE.iml" />
       <module fileurl="file://$PROJECT_DIR$/RECURSION_AND_BACKTRACKING/RECURSION_AND_BACKTRACKING.iml" filepath="$PROJECT_DIR$/RECURSION_AND_BACKTRACKING/RECURSION_AND_BACKTRACKING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SORTING/SORTING.iml" filepath="$PROJECT_DIR$/SORTING/SORTING.iml" />
       <module fileurl="file://$PROJECT_DIR$/STRINGD/STRINGD.iml" filepath="$PROJECT_DIR$/STRINGD/STRINGD.iml" />
       <module fileurl="file://$PROJECT_DIR$/TWO_POINTER/TWO_POINTER.iml" filepath="$PROJECT_DIR$/TWO_POINTER/TWO_POINTER.iml" />
     </modules>
