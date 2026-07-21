@@ -9,10 +9,10 @@ public class TWO_SUM_1
         HashMap<Integer,Integer> mpp=new HashMap<>();
         for(int x=0;x<arr.length;x++)
         {
-            int complement=target-arr[x];
-            if(mpp.containsKey(complement))
+            int compelment=target-arr[x];
+            if(mpp.containsKey(compelment))
             {
-                return new int[]{mpp.get(complement),x};
+                return new int[]{mpp.get(compelment),x};
             }
             mpp.put(arr[x],x);
         }
